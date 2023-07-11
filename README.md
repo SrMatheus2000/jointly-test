@@ -28,7 +28,7 @@ To start the development server:
 pnpm run dev
 ```
 
-Navigate to http://localhost:3000 to view the application.
+Navigate to http://localhost:5173 to view the application.
 
 ## Application Structure
 
